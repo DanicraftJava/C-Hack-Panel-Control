@@ -2,7 +2,7 @@
 Control Software for the C-Hack Panels
 
 The C-Hack Panels are a set of LED-Panels. See [c-hack](http://c-hack.de/projekte/c-hack-panel/).  
-The aim of the software is to send the right bytes over serial to the panels at ther right time, 
+The aim of the software is to send the right bytes over serial to the panels at the right time, 
 so the panels dispaly the intended animation.  
 This new software was made to replace the old Sequencer.
 
